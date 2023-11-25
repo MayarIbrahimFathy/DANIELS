@@ -1,2 +1,2 @@
 # DANIELS
-Website using HTML , CSS , Bootstrap 
+Responsive Website using HTML , CSS , Bootstrap 
